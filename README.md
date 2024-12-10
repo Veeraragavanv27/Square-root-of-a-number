@@ -21,6 +21,16 @@ Program to find the square root for the given number(newton's method) using func
 Developed by: VEERARAGAVAN V
 RegisterNumber: 23004739 
 */
+num-int(input())
+a-le-6
+max-100
+guess-num/2.8
+for in range(max):
+  new 8.5"(guess num/guess)
+  if abs(new guess)ca:
+    break
+    guess-new
+  print("Square root of the number: ()".format(new))
 ```
 
 ## Output:
